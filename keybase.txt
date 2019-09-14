@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/teknetia
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://chrisconsults.com
+  * I am teknetia (https://keybase.io/teknetia) on keybase.
+  * I have a public key with fingerprint 9017 898A DB71 7E5D D4EF  4362 254A AFC7 813D BD4B
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101d870b2c6b995106fb0578c0983e7821991813e699649494aa67c789ea138667c0a",
+      "fingerprint": "9017898adb717e5dd4ef4362254aafc7813dbd4b",
+      "host": "keybase.io",
+      "key_id": "254aafc7813dbd4b",
+      "kid": "0101d870b2c6b995106fb0578c0983e7821991813e699649494aa67c789ea138667c0a",
+      "uid": "983c0dd52d44c1a947ad6c3339ffe300",
+      "username": "teknetia"
+    },
+    "service": {
+      "hostname": "chrisconsults.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1568472082,
+  "expire_in": 157680000,
+  "prev": "f129f5f1e03fd0266aa3e8a5177b8df947caf62d137374f609bc3f1e53921c75",
+  "seqno": 37,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMNHAnicrZJtUFRVGMeXCBSCIjGgETNuSSlE92Xv28rLmDgoNkkylCm0c1/OhSvL
+3uXeuyukMKMESlpKLmDCJkgZMoEQo46mjiSwEeVAxsu0UFgpEwbZxDSiTnYuY9/6
+2DkfzjnP+f3/53meOd2h/qZgv+XpJ727ki5s8Ovv8jhNOTvvLdqB8IpYjFh2IPlg
+fgE2EWi6NV8WEQuCYigmMjTK4wLFsyyJoZTEoyTNCCjLEIBmcIxlMQYjAMWylJmF
+k+MoWqAZFnAYwVBwj3JIPCLJ9lygOlTZrkNbFsUgwXAiT2M0IEXRDCQzQeE4CeUS
+VGOEyItmHgrzFM1QwOR4TgMJsgJj8GCdT+8/+P85b+e8HdQIqCiSuGg2CxjHmmlO
+pASCIFhJAgSKGqAGVDtXACCtg3w70GUOKYlHYNQlC8BorFHJA0LIU2VNUOya06Zr
+CYJSAA0cqqIrgmKD13m67tAshlwvdhj8dsBbHzhZedkuwmZChQuomqzYEQsGSUGX
+DWuMpBgzjaMMHo+AIoesAqtsECRNMSgcxjvABS0lDGclUsIASkgiilMUxxGA4UiM
+pnlGlGCJAidRuIgRNEGbJQpleYGAOEmwOCbQJGLUVmhXEAtBwzy5XOipybl2Tneq
+ACn5oiv7YZNfsCkw4CHjl5mCg8L+/XvuXx+7v66uw699T31n29C3jiNxtwsHKWFX
+s2uIe940MFagvOuxXC4NKE4sdT3TmOw5tcU7tPfAIyMBMyP7llhb8e6FqZ2Vw86C
+sIxbYDt3vShtrMa3O7lxPOQKezjqSnmRbV3oa+iH/tcyX0aTmpoBsnusmByKiIhZ
+umTm7tWp01Ve9cjNqTBl9JLvy47kisU5ytmFqavOtVz/u628Kw3z9GXWxIWvr8+g
+3OElicuCpMHlw/yzgXpoxcbIhosph6T0NbXttqeSb/Zs/jyu1ZLtKmstUgqrCk8P
+vBfZ0+4inl6kPtETkdn7RvwGPr3vs5lAdd+co3pbFL7qzKGS6TOLv2so82hpl8iZ
+N19MzaLGY69+E9u5+qD+14GI35T1x4vf2hnTtKmNe3/B0ulXUubGyP3+yyZahgO2
+5kZfbsm+4E3/Zaq0f/bwRl/kpoMxnVN7vm/mY+8wlfn9a9+ZqY7/Ux6Z2OZ9lGca
+bv1Uyrp7z1U/d2xwum6z74Rgm/Q7X/3k0fG+aN/Xda+661M+vvhzUMWKcmEaR7NS
+mkbnav/w3nPvzRKjQ9feCJwND85K+PFEpTnnk8dv+wrL3Laztq0vLXBGBWW8sCKm
+bHIWAT9U9Xxac2NNY1P3teNgauCrwS0DJ39PuOO2TyYdjbk7+/r5Y4m91tH7ng9C
+Pnr7VMfEyo6Q/dW13WTUOOXftZL9B3Xkw5M=
+=QRB9
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/teknetia
+
+==================================================================
