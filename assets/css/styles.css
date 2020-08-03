@@ -1,0 +1,108 @@
+a:hover {
+  background-color: #F5CEED;
+  transition: 0.5s;
+  color: #000;
+  text-decoration: none;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+  background: url(../../assets/img/cw_portrait_900_hover.png) no-repeat -9999px -9999px #fff;
+  padding: 1px 4px;
+  border-radius: 2px;
+  transition: 0.5s;
+}
+
+img.chris {
+  background-size: contain !important;
+  background: url("../../assets/img/cw_portrait_900.png");
+  width: 100%;
+  height: 100%;
+  transition: 0.5s;
+  max-width: 450px;
+  display: block;
+  margin: 0 auto;
+}
+
+img.chris:hover {
+  background-size: contain !important;
+  background: url("../../assets/img/cw_portrait_900_hover.png");
+  transition: 0.5s;
+}
+
+body {
+  background: url(../../assets/img/texturedpaper_100.jpg);
+  background-color: #000;
+  padding-bottom: 40px;
+}
+
+p {
+  line-height: 1.6;
+}
+
+.job-tag {
+  background: #444;
+  font-weight: 500;
+  color: #000;
+  border-radius: 2px;
+  margin-bottom: 8px;
+}
+
+@media (max-width: 899px) {
+  dl, ol, ul {
+    padding-inline-start: 0;
+    list-style: none;
+  }
+}
+
+@media (min-width: 900px) {
+  dl, ol, ul {
+    padding-inline-start: 24px;
+  }
+}
+
+.prior-roles {
+  color: #444;
+}
+
+.prior-roles a {
+  background-color: #444;
+}
+
+.prior-roles a:hover {
+  background-color: #F5CEED;
+}
+
+hr {
+  border: 1px solid #444;
+}
+
+a.no-bg, a.no-bg:hover {
+  background: none;
+  padding: 0;
+}
+
+section.prior-roles {
+  padding-top: 24px;
+}
+
+@media (min-width: 900px) {
+  .info-container {
+    padding-top: 9rem;
+  }
+}
+
+.cap-header {
+  margin-bottom: 0;
+  text-transform: uppercase;
+  color: #666;
+  margin-top: 24px;
+}
+
+@media (max-width: 400px) {
+  .job-title {
+    display: block;
+  }
+}
+
