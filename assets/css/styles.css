@@ -42,7 +42,7 @@ p {
 }
 
 .job-tag {
-  background: #444;
+  background: #888888;
   font-weight: 500;
   color: #000;
   border-radius: 2px;
@@ -63,11 +63,11 @@ p {
 }
 
 .prior-roles {
-  color: #444;
+  color: #888888;
 }
 
 .prior-roles a {
-  background-color: #444;
+  background-color: #888888;
 }
 
 .prior-roles a:hover {
@@ -75,7 +75,7 @@ p {
 }
 
 hr {
-  border: 1px solid #444;
+  border: 1px solid #888888;
 }
 
 a.no-bg, a.no-bg:hover {
@@ -96,7 +96,7 @@ section.prior-roles {
 .cap-header {
   margin-bottom: 0;
   text-transform: uppercase;
-  color: #666;
+  color: #888888;
   margin-top: 24px;
 }
 
